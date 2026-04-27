@@ -1,0 +1,15 @@
+C:\Users\User\02C#\02C#_mini_project\Console\02TodoTaskTracker\bin\Debug\net10.0\02TodoTaskTracker.exe
+C:\Users\User\02C#\02C#_mini_project\Console\02TodoTaskTracker\bin\Debug\net10.0\02TodoTaskTracker.deps.json
+C:\Users\User\02C#\02C#_mini_project\Console\02TodoTaskTracker\bin\Debug\net10.0\02TodoTaskTracker.runtimeconfig.json
+C:\Users\User\02C#\02C#_mini_project\Console\02TodoTaskTracker\bin\Debug\net10.0\02TodoTaskTracker.dll
+C:\Users\User\02C#\02C#_mini_project\Console\02TodoTaskTracker\bin\Debug\net10.0\02TodoTaskTracker.pdb
+C:\Users\User\02C#\02C#_mini_project\Console\02TodoTaskTracker\obj\Debug\net10.0\02TodoTaskTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\02C#\02C#_mini_project\Console\02TodoTaskTracker\obj\Debug\net10.0\02TodoTaskTracker.AssemblyInfoInputs.cache
+C:\Users\User\02C#\02C#_mini_project\Console\02TodoTaskTracker\obj\Debug\net10.0\02TodoTaskTracker.AssemblyInfo.cs
+C:\Users\User\02C#\02C#_mini_project\Console\02TodoTaskTracker\obj\Debug\net10.0\02TodoTaskTracker.csproj.CoreCompileInputs.cache
+C:\Users\User\02C#\02C#_mini_project\Console\02TodoTaskTracker\obj\Debug\net10.0\02TodoTaskTracker.sourcelink.json
+C:\Users\User\02C#\02C#_mini_project\Console\02TodoTaskTracker\obj\Debug\net10.0\02TodoTaskTracker.dll
+C:\Users\User\02C#\02C#_mini_project\Console\02TodoTaskTracker\obj\Debug\net10.0\refint\02TodoTaskTracker.dll
+C:\Users\User\02C#\02C#_mini_project\Console\02TodoTaskTracker\obj\Debug\net10.0\02TodoTaskTracker.pdb
+C:\Users\User\02C#\02C#_mini_project\Console\02TodoTaskTracker\obj\Debug\net10.0\02TodoTaskTracker.genruntimeconfig.cache
+C:\Users\User\02C#\02C#_mini_project\Console\02TodoTaskTracker\obj\Debug\net10.0\ref\02TodoTaskTracker.dll
