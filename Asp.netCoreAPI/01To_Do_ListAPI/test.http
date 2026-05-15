@@ -1,0 +1,17 @@
+@baseUrl = http://localhost:5166/api/Todos
+
+### Get all todos
+GET {{baseUrl}}
+
+### Get a todo by id
+GET {{baseUrl}}/1
+
+### Create a new todo
+POST {{baseUrl}}
+Content-Type : application/json
+
+{
+    "title": "RestClient Test",
+    "isCompleted": false
+}
+

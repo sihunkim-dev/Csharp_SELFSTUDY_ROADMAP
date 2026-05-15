@@ -1,7 +1,6 @@
 appsettings.json
 
 bin/
-Migrations/
 obj/
 *.exe
 *.dll
