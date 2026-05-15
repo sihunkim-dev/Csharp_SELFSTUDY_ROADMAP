@@ -1,1 +1,10 @@
 appsettings.json
+
+bin/
+Migrations/
+obj/
+*.exe
+*.dll
+*.pdb
+*.user
+.vs/
