@@ -27,4 +27,14 @@ public class UserRepository : IUserRepository
     {
         return await _userManager.AddToRoleAsync(user, role);
     }
+
+    public async Task<bool> CheckPasswordAsync(AppUser user, string password)
+    {
+        return await _userManager.CheckPasswordAsync(user, password);
+    }
+
+    public async Task<IList<string>> GetUserRolesAsync(AppUser user)
+    {
+        return await _userManager.GetRolesAsync(user);
+    }
 }

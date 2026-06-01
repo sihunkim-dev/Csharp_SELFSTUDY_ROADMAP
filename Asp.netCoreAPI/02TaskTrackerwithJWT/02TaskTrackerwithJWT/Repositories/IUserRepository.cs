@@ -9,4 +9,9 @@ public interface IUserRepository
     Task<AppUser?> FindByEmailAsync(string email);
     
     Task<IdentityResult> AddToRoleAsync(AppUser user, string role); 
+    
+    //SignIn
+    Task<bool> CheckPasswordAsync(AppUser user, string password);
+    Task<IList<string>> GetUserRolesAsync(AppUser user);
+    
 }
